@@ -1,0 +1,20 @@
+{
+    "1": {
+        "titulo":"Programação Orientada a Objetos",
+        "autor":"de Tal, Fulano",
+        "ano":2021,
+        "editora": "Vamos Programar"
+    },
+    "2": {
+        "titulo":"Banco de Dados",
+        "autor":"de Tal, Fulano",
+        "ano":2021,
+        "editora": "Vamos Programar"
+    },
+    "3": {
+        "titulo":"Javascript",
+        "autor":"de Tal, Fulano",
+        "ano":2021,
+        "editora": "Vamos Programar"
+    }
+}
