@@ -1,5 +1,5 @@
-function NovoComponente() {
-    return <h1>Fulano de Tal</h1>
+function NovoComponente(props) {
+    return props.nome;
 }
 
 export default NovoComponente;
